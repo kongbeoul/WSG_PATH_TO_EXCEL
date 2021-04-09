@@ -1,0 +1,60 @@
+[
+    {
+        "_depID": "1",
+        "title": "1depth menu_01",
+        "url": "",
+        "state": "none",
+        "history": {},
+        "children": [
+            {
+                "_depID": "2",
+                "title": "2depth menu",
+                "url": "guide.html",
+                "state": "complete",
+                "history": {
+                    "2020-07-28": [
+                        "수정내용을 입력한다면 툴팁으로 나옵니다.",
+                        "수정내용을 입력한다면 툴팁으로 나옵니다.",
+                        "수정내용을 입력한다면 툴팁으로 나옵니다.",
+                        "수정내용을 입력한다면 툴팁으로 나옵니다."
+                    ]
+                },
+                "children": []
+            },
+            {
+                "_depID": "2",
+                "title": "2depth menu",
+                "url": "guide.html",
+                "state": "soon",
+                "history": {},
+                "children": [
+                    {
+                        "_depID": "3",
+                        "title": "3depth menu",
+                        "url": "guide.html",
+                        "state": "ing",
+                        "history": {},
+                        "children": [
+                            {
+                                "_depID": "4",
+                                "title": "4depth menu",
+                                "url": "guide.html",
+                                "state": "delete",
+                                "history": {},
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_depID": "1",
+        "title": "1depth menu_02",
+        "url": "guide.html",
+        "state": "complete",
+        "history": {},
+        "children": []
+    }
+]
